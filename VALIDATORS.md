@@ -228,7 +228,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | | stake-machine | For the wealth of the ecosystem! | @akme.betanet | 10% | RU | | |
 | | [AtreyaVC](https://atreya.vc) | Running NEAR  | @stk.atreyavc.betanet | 10% | IN | | |
 | | lizhongbo(http://www.staking-power.tech) | Chinese professional node operator | @lizhongbo3.betanet | 10% | CN | | |
-| | ThePassiveTrust(http://www.thepassivetrust.com) | Professional Secure Blockchain Infracstruture  | @thepassivetrust-near.betanet | 10% | CN | | |
+|<img src="https://ibb.co/LhftLYn" width="40"> | ThePassiveTrust(http://www.thepassivetrust.com) | Professional Secure Blockchain Infracstruture  | @thepassivetrust-near.betanet | 10% | CA | | |
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. As a validator, you can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create your own.
